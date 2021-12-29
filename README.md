@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ByronPeregrim
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I’m currently learning as much as I can.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: byronperegrim@gmail.com
 
