@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ByronPeregrim
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning as much as I can.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning as much as I can.
+- 🌱 I’m currently a student.
+- 💞️ I’m looking for an internship!
 - 📫 How to reach me: byronperegrim@gmail.com
 
 <!---
